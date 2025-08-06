@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (639 )
-> 639 is the year that the Plague of Emmaus breaks out.
+## 연도: (504 )
+> 504 is the year that Theodoric the Great defeats the Gepids as the Ostrogoths sack Belgrade.
 
-⏳ 업데이트 시간: 2025-08-06 05:18:54 (UTC)
+⏳ 업데이트 시간: 2025-08-06 05:50:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
