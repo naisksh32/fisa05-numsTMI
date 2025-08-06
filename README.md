@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (433 )
-> 433 is the year that Flavius Aetius returns with support of the Huns back to Italy.
+## 연도: (589 )
+> 589 is the year that the Council of Narbonne is held.
 
-⏳ 업데이트 시간: 2025-08-06 03:52:30 (UTC)
+⏳ 업데이트 시간: 2025-08-06 04:41:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
