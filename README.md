@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (321 )
-> 321 is the year that Calcidius translates Plato into Latin.
+## 연도: (342 )
+> 342 is the year that the original Hagia Sophia is dedicated in Constantinople on February 15th.
 
-⏳ 업데이트 시간: 2025-08-07 15:42:02 (UTC)
+⏳ 업데이트 시간: 2025-08-07 15:56:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
