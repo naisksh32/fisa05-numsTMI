@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1777)
-> 1777 is the year that the Articles of Confederation are submitted to the states for ratification on November 17th.
+## 연도: (24 i)
+> 24 is the year that Tacfarinas' revolt in Africa is repressed.
 
-⏳ 업데이트 시간: 2025-08-07 21:45:13 (UTC)
+⏳ 업데이트 시간: 2025-08-07 21:57:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
