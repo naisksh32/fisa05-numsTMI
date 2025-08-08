@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (335 )
-> 335 is the year that Constantine I reinstated the Alexandrian priest Arius in a synod at Jerusalem.
+## 연도: (296 )
+> 296 is the year that Constantius Chlorus reconquers Britain, he rebuilds the cities Eboracum (York), Londinium (London), and Verulamium (St Albans).
 
-⏳ 업데이트 시간: 2025-08-08 11:59:17 (UTC)
+⏳ 업데이트 시간: 2025-08-08 13:02:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
