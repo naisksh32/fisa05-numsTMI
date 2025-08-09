@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1270)
-> 1270 is the year that Yekuno Amlak overthrows the Ethiopian Zagwe dynasty, claims the throne and establishes the Solomonic dynasty.
+## 연도: (353 )
+> 353 is the year that Constantius II assembled a conciliabulum at Arles and condemned Athanasius as Patriarch of Alexandria.
 
-⏳ 업데이트 시간: 2025-08-09 14:59:40 (UTC)
+⏳ 업데이트 시간: 2025-08-09 15:28:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
