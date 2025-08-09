@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (772 )
-> 772 is the year that Caliph Al-Mansur orders Christians and Jews in Jerusalem to be stamped on their hands with a distinctive symbol.
+## 연도: (1692)
+> 1692 is the year that Earthquake in London on September 8th.
 
-⏳ 업데이트 시간: 2025-08-09 22:51:14 (UTC)
+⏳ 업데이트 시간: 2025-08-09 23:13:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
