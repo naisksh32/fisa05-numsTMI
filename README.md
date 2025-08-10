@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (785 )
-> 785 is the year that Cologne becomes an archbishopric.
+## 연도: (347 )
+> 347 is the year that the Council of Philippopolis is held as the result of Eastern bishops leaving the Council of Sardica.
 
-⏳ 업데이트 시간: 2025-08-10 19:22:41 (UTC)
+⏳ 업데이트 시간: 2025-08-10 19:36:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
