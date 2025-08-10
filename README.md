@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1884)
-> 1884 is the year that the eight-hour workday is first proclaimed by the Federation of Organized Trades and Labor Unions in the United States on May 1st.
+## 연도: (1397)
+> 1397 is the year that Queen Margaret forms the Kalmar Union, uniting the three kingdoms of Denmark, Norway (with Iceland and Greenland) and Sweden (including Finland) on July 20th.
 
-⏳ 업데이트 시간: 2025-08-10 13:44:56 (UTC)
+⏳ 업데이트 시간: 2025-08-10 13:56:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
