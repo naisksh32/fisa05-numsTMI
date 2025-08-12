@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (663 )
-> 663 is the year that Byzantine Emperor Constans II invades south Italy.
+## 연도: (543 )
+> 543 is the year that the doctrine of apocatastasis is condemned by the Synod of Constantinople.
 
-⏳ 업데이트 시간: 2025-08-12 10:57:11 (UTC)
+⏳ 업데이트 시간: 2025-08-12 11:23:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
