@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1570)
-> 1570 is the year that a magnitude 8.3 earthquake occurs in Concepción, Chile on February 8th.
+## 연도: (1266)
+> 1266 is the year that Mary de Ferrers is ordered to surrender land and Liverpool Castle to Edmund, second son of Henry III on July NaNth.
 
-⏳ 업데이트 시간: 2025-08-12 04:54:44 (UTC)
+⏳ 업데이트 시간: 2025-08-12 05:21:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
