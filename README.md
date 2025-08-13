@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1288)
-> 1288 is the year that Pope Nicholas IV succeeds Pope Honorius IV as the 191st pope on February 22nd.
+## 연도: (86 B)
+> 86 BC is the year that Sulla captures Athens from the Pontic army, removing the tyrant Aristion on March 1st.
 
-⏳ 업데이트 시간: 2025-08-13 05:37:17 (UTC)
+⏳ 업데이트 시간: 2025-08-13 05:52:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
