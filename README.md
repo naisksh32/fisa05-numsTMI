@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1521)
-> 1521 is the year that Ryazan is annexed by Moscow.
+## 연도: (1498)
+> 1498 is the year that John Cabot leaves Bristol on an expedition, never to be seen again on May NaNth.
 
-⏳ 업데이트 시간: 2025-08-14 19:38:27 (UTC)
+⏳ 업데이트 시간: 2025-08-14 19:50:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
