@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (106 )
-> 106 is the year that Change of Han Hedi to Han Shangdi of the Chinese Eastern Han Dynasty.
+## 연도: (776 )
+> 776 is the year that the Battle of Otford is fought between Mercia and Kent.
 
-⏳ 업데이트 시간: 2025-08-14 20:38:14 (UTC)
+⏳ 업데이트 시간: 2025-08-14 20:52:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
