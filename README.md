@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (523 )
-> 523 is the year that Hilderic becomes king of the Vandals.
+## 연도: (1374)
+> 1374 is the year that Rao Biram Dev succeeds Rao Kanhadev as ruler of Marwar (now the Jodhpur district of India).
 
-⏳ 업데이트 시간: 2025-08-14 11:38:03 (UTC)
+⏳ 업데이트 시간: 2025-08-14 11:50:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
