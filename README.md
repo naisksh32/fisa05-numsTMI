@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (626 )
-> 626 is the year that Emperor Gaozu of Tang China abdicates in favor of his son Li Shimin on September 3rd.
+## 연도: (1483)
+> 1483 is the year that Edward V becomes King of England on April 9th.
 
-⏳ 업데이트 시간: 2025-08-14 07:30:14 (UTC)
+⏳ 업데이트 시간: 2025-08-14 07:45:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
