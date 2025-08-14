@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (52 B)
-> 52 BC is the year that Siege and repulse from Gergovia on April–May NaNth.
+## 연도: (1360)
+> 1360 is the year that Shah Shuja regains rule of the Muzaffarid tribe in Persia after the death of his brother, Shah Mahmud.
 
-⏳ 업데이트 시간: 2025-08-14 15:13:33 (UTC)
+⏳ 업데이트 시간: 2025-08-14 15:39:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
