@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1426)
-> 1426 is the year that the Battle of Chirokitia is fought on July 7th.
+## 연도: (992 )
+> 992 is the year that Boleslaus I becomes Duke of Poland.
 
-⏳ 업데이트 시간: 2025-08-16 09:57:13 (UTC)
+⏳ 업데이트 시간: 2025-08-16 10:26:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
