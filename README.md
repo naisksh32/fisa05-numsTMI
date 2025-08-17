@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1629)
-> 1629 is the year that Fort Santo Domingo is built in Formosa by the Spanish settlers.
+## 연도: (1087)
+> 1087 is the year that William II becomes King of England on September 9th.
 
-⏳ 업데이트 시간: 2025-08-17 17:00:20 (UTC)
+⏳ 업데이트 시간: 2025-08-17 17:25:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
