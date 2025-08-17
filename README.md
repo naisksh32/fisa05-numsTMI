@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (850 )
-> 850 is the year that Emperor Montoku succeeds Emperor Nimmyō as Emperor of Japan.
+## 연도: (698 )
+> 698 is the year that Dae Jo-young establishes the Balhae Kingdom.
 
-⏳ 업데이트 시간: 2025-08-17 11:28:49 (UTC)
+⏳ 업데이트 시간: 2025-08-17 11:41:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
