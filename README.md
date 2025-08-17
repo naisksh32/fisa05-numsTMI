@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (491 )
-> 491 is the year that Aelle of Sussex besieges and conquers the fortified town of Anderitum in southern Britain.
+## 연도: (64 i)
+> 64 is the year that the year the First Epistle of Peter is traditionally believed to be written.
 
-⏳ 업데이트 시간: 2025-08-17 07:25:33 (UTC)
+⏳ 업데이트 시간: 2025-08-17 07:40:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
