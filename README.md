@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (133 )
-> 133 is the year that Sextus Julius Severus, governor of Britain, is sent to Judea (from 136 renamed Syria Palaestina) to quell a revolt.
+## 연도: (1946)
+> 1946 is the year that Porfirio Barba-Jacob's ashes go back to Colombia.
 
-⏳ 업데이트 시간: 2025-08-17 17:42:30 (UTC)
+⏳ 업데이트 시간: 2025-08-17 17:54:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
