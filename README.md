@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1942)
-> 1942 is the year that the Alaska Highway is completed on October 28th.
+## 연도: (1196)
+> 1196 is the year that England is struck by a pestilence and a resulting famine.
 
-⏳ 업데이트 시간: 2025-08-18 09:34:25 (UTC)
+⏳ 업데이트 시간: 2025-08-18 09:51:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
