@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (2 BC)
-> 2 BC is the year that Julia the Elder, daughter of Augustus, is exiled on charges of treason and adultery to Pandateria; her mother Scribonia accompanies her.
+## 연도: (1990)
+> 1990 is the year that Saddam Hussein releases the Western hostages.
 
-⏳ 업데이트 시간: 2025-08-18 21:54:53 (UTC)
+⏳ 업데이트 시간: 2025-08-18 22:18:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
