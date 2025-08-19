@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1156)
-> 1156 is the year that the Privilegium Minus elevates Austria to the status of a duchy ruled by the Babenburgs family.
+## 연도: (1652)
+> 1652 is the year that Michiel de Ruyter marries the widow Anna van Gelder and plans retirement, but months later becomes a vice-commodore in the First Anglo-Dutch War on January 8th.
 
-⏳ 업데이트 시간: 2025-08-19 19:59:27 (UTC)
+⏳ 업데이트 시간: 2025-08-19 20:28:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
