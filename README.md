@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1596)
-> 1596 is the year that the 4th of a 5 year run of poor harvests, largely caused by the weather, a pattern typical of the last third of the century.
+## 연도: (1363)
+> 1363 is the year that the Mosque-Madrassa of Sultan Hassan is completed in Cairo, Egypt.
 
-⏳ 업데이트 시간: 2025-08-20 01:01:59 (UTC)
+⏳ 업데이트 시간: 2025-08-20 02:44:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
