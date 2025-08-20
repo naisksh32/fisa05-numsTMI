@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (936 )
-> 936 is the year that Ibn Muqlah, Islamic calligrapher, is disgraced and imprisoned in Baghdad.
+## 연도: (283 )
+> 283 is the year that Carus dies in mysterious circumstances during an expedition against the Sassanids, during a violent dust storm he is killed by a stroke of lightning.
 
-⏳ 업데이트 시간: 2025-08-20 05:57:29 (UTC)
+⏳ 업데이트 시간: 2025-08-20 06:39:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
