@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1136)
-> 1136 is the year that the people of Novgorod rebel against the hereditary prince Vsevolod of Pskov and depose him.
+## 연도: (1110)
+> 1110 is the year that the Russian Primary Chronicle ends.
 
-⏳ 업데이트 시간: 2025-08-20 17:23:53 (UTC)
+⏳ 업데이트 시간: 2025-08-20 17:41:24 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
