@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1163)
-> 1163 is the year that the Law of Succession is introduced in Norway.
+## 연도: (92 i)
+> 92 is the year that the Roman army moves into Mesopotamia.
 
-⏳ 업데이트 시간: 2025-08-21 19:28:18 (UTC)
+⏳ 업데이트 시간: 2025-08-21 19:40:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
