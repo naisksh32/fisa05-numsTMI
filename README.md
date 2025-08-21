@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1188)
-> 1188 is the year that Queen Tamar of Georgia marries David Soslan.
+## 연도: (83 B)
+> 83 BC is the year that a fire breaks out which burns down the Temple of Jupiter (Jupiter Capitolinus) and destroys the collection of Sibylline Books.
 
-⏳ 업데이트 시간: 2025-08-21 03:59:12 (UTC)
+⏳ 업데이트 시간: 2025-08-21 04:32:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
