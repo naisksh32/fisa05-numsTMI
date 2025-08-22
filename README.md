@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (72 B)
-> 72 BC is the year that the Helvetii and other peoples under Ariovistus invade Gaul.
+## 연도: (656 )
+> 656 is the year that Ali succeeds Uthman as Caliph.
 
-⏳ 업데이트 시간: 2025-08-22 10:56:26 (UTC)
+⏳ 업데이트 시간: 2025-08-22 11:20:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
