@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (263 )
-> 263 is the year that Liu Hui writes a commentary on The Nine Chapters on the Mathematical Art, describing what will later be called Gaussian elimination, computing pi, etc.
+## 연도: (2 BC)
+> 2 BC is the year that Julia the Elder, daughter of Augustus, is exiled on charges of treason and adultery to Pandateria; her mother Scribonia accompanies her.
 
-⏳ 업데이트 시간: 2025-08-23 17:53:47 (UTC)
+⏳ 업데이트 시간: 2025-08-23 18:24:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
