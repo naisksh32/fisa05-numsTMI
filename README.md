@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1612)
-> 1612 is the year that an uprising in Moscow expels Polish troops on January–November 4 20th.
+## 연도: (392 )
+> 392 is the year that Stilicho, Roman general (magister militum), defeat the Visigoths and Huns in Thrace.
 
-⏳ 업데이트 시간: 2025-08-23 23:55:38 (UTC)
+⏳ 업데이트 시간: 2025-08-24 02:03:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
