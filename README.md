@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (189 )
-> 189 is the year that Pope Victor I succeeds Pope Eleuterus as the fourteenth pope, the first from Africa.
+## 연도: (1602)
+> 1602 is the year that Persia and Spain conclude a defensive alliance and declare war on the Ottoman Empire.
 
-⏳ 업데이트 시간: 2025-08-24 14:38:24 (UTC)
+⏳ 업데이트 시간: 2025-08-24 14:49:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
