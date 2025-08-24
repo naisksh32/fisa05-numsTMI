@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1380)
-> 1380 is the year that the last islands of Polynesia are discovered and inhabited.
+## 연도: (466 )
+> 466 is the year that Emperor Leo I repels the Hun invasion of Dacia.
 
-⏳ 업데이트 시간: 2025-08-24 16:44:20 (UTC)
+⏳ 업데이트 시간: 2025-08-24 16:56:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
