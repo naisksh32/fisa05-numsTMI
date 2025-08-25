@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (390 )
-> 390 is the year that Rudrasena II becomes emperor of Vakataka in the Deccan Plateau (India).
+## 연도: (11 i)
+> 11 is the year that Emperor Augustus abandons his plan to create a defensive border at the Elbe, in order to reinforce the Roman defense along the Rhine and the Danube.
 
-⏳ 업데이트 시간: 2025-08-25 03:29:59 (UTC)
+⏳ 업데이트 시간: 2025-08-25 04:00:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
