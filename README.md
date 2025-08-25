@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (635 )
-> 635 is the year that Kubrat overthrows Avars in Ukraine.
+## 연도: (962 )
+> 962 is the year that Pope John XII crowns Otto I the Great Holy Roman Emperor on February 2nd.
 
-⏳ 업데이트 시간: 2025-08-25 11:00:11 (UTC)
+⏳ 업데이트 시간: 2025-08-25 11:23:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
