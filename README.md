@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (112 )
-> 112 is the year that Salonina Matidia receives the title of Augusta.
+## 연도: (1646)
+> 1646 is the year that the Westminster Confession of Faith is published.
 
-⏳ 업데이트 시간: 2025-08-27 11:52:56 (UTC)
+⏳ 업데이트 시간: 2025-08-27 12:35:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
