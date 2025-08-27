@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1636)
-> 1636 is the year that the Massachusetts Bay Colony organizes three militia regiments to defend the colony against the Pequot Indians on December 13th.
+## 연도: (1980)
+> 1980 is the year that El Asnam, Algeria is destroyed by an earthquake, which claims more than 2,600 lives.
 
-⏳ 업데이트 시간: 2025-08-27 23:34:42 (UTC)
+⏳ 업데이트 시간: 2025-08-27 23:46:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
