@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1182)
-> 1182 is the year that the Yowa era, marked by famine, ends in Japan.
+## 연도: (533 )
+> 533 is the year that the Digesta or Pandectae, a collection of jurist writings and other sources, is completed (see Corpus Juris Civilis) on December 16th.
 
-⏳ 업데이트 시간: 2025-08-27 11:28:41 (UTC)
+⏳ 업데이트 시간: 2025-08-27 11:40:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
