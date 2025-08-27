@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (39 i)
-> 39 is the year that Gaius Caesar Augustus Germanicus (Caligula) and Gnaeus Domitius Corbulo become Roman consuls.
+## 연도: (1685)
+> 1685 is the year that Adam Baldridge finds a pirate base at Île Sainte-Marie in Madagascar.
 
-⏳ 업데이트 시간: 2025-08-27 21:49:34 (UTC)
+⏳ 업데이트 시간: 2025-08-27 22:09:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
