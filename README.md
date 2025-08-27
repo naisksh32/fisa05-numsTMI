@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1967)
-> 1967 is the year that Charlie Chaplin launches his last film, A Countess From Hong Kong, in the UK.
+## 연도: (1825)
+> 1825 is the year that the Erie Canal opens, providing passage from Albany, New York to Buffalo and Lake Erie on October 26th.
 
-⏳ 업데이트 시간: 2025-08-27 09:55:23 (UTC)
+⏳ 업데이트 시간: 2025-08-27 10:22:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
