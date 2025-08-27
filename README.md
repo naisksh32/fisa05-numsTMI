@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1716)
-> 1716 is the year that Caroline of Ansbach, Princess of Wales, gives birth to a stillborn son on November 9th.
+## 연도: (162 )
+> 162 is the year that Lucius Verus begins a war with the Parthians, due to the invasion of Syria and Armenia by Vologases IV of Parthia.
 
-⏳ 업데이트 시간: 2025-08-27 18:50:40 (UTC)
+⏳ 업데이트 시간: 2025-08-27 19:09:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
