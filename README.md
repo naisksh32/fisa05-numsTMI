@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1988)
-> 1988 is the year that the Great Seto Bridge opens to traffic in Japan.
+## 연도: (1003)
+> 1003 is the year that the Zubu khan surrenders to the Liao Dynasty.
 
-⏳ 업데이트 시간: 2025-08-28 01:59:52 (UTC)
+⏳ 업데이트 시간: 2025-08-28 03:08:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
