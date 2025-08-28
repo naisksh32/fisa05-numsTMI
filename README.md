@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1073)
-> 1073 is the year that John IX bar Shushan ends his term as Syrian Patriarch of Antioch.
+## 연도: (758 )
+> 758 is the year that the moderate Ibadites under the Persian 'Abd al-Rahman Iban Rustam conquer Kairouan and massacre the Sofrites Kharijites.
 
-⏳ 업데이트 시간: 2025-08-28 18:48:07 (UTC)
+⏳ 업데이트 시간: 2025-08-28 18:59:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
