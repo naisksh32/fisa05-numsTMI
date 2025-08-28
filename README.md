@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (585 )
-> 585 is the year that the Suebi kingdom on the Iberian peninsula is conquered by the Visigoths under King Leovigild.
+## 연도: (782 )
+> 782 is the year that Nanchan Temple, Wutaishan, Shanxi, is built.
 
-⏳ 업데이트 시간: 2025-08-28 08:31:13 (UTC)
+⏳ 업데이트 시간: 2025-08-28 08:50:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
