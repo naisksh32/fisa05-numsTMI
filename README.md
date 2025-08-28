@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1155)
-> 1155 is the year that Robert of Chichester becomes Bishop of Exeter.
+## 연도: (1637)
+> 1637 is the year that the first opera house, Teatro San Cassiano, opens in Venice.
 
-⏳ 업데이트 시간: 2025-08-28 12:54:21 (UTC)
+⏳ 업데이트 시간: 2025-08-28 13:29:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
