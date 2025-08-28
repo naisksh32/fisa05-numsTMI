@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1991)
-> 1991 is the year that CPSU, and its republic-level division, Communist Party of the Russian SFSR, banned in the Russian SFSR by Presidential decree N 169.
+## 연도: (1271)
+> 1271 is the year that the County of Toulouse is returned to the crown of France.
 
-⏳ 업데이트 시간: 2025-08-28 19:21:10 (UTC)
+⏳ 업데이트 시간: 2025-08-28 19:34:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
