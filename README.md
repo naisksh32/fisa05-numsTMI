@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1498)
-> 1498 is the year that Da Gama reaches Malindi in modern-day Kenya on February NaNth.
+## 연도: (905 )
+> 905 is the year that the Abbasid Caliphate re-establishes control of Egypt from the Tulunids.
 
-⏳ 업데이트 시간: 2025-08-31 22:34:23 (UTC)
+⏳ 업데이트 시간: 2025-08-31 22:46:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
