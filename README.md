@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1218)
-> 1218 is the year that Alfonso IX of Castile founds the University of Salamanca.
+## 연도: (1383)
+> 1383 is the year that Löwenbräu beer is first brewed.
 
-⏳ 업데이트 시간: 2025-08-31 09:40:59 (UTC)
+⏳ 업데이트 시간: 2025-08-31 09:53:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
