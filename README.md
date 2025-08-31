@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (2009)
-> 2009 is the year that the Organization of American States suspends Honduras due to the country's recent political crisis after its refusal to reinstate President Zelaya on July 4th.
+## 연도: (352 )
+> 352 is the year that the earliest sighting of a supernova occurs in China.
 
-⏳ 업데이트 시간: 2025-08-31 09:12:24 (UTC)
+⏳ 업데이트 시간: 2025-08-31 09:29:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
