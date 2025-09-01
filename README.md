@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1452)
-> 1452 is the year that Murder of William Douglas, 8th Earl of Douglas by James II of Scotland at Stirling Castle on February 22nd.
+## 연도: (551 )
+> 551 is the year that Liang Yu Zhang Wang succeeds Liang Jian Wen Di as ruler of the Chinese Liang Dynasty.
 
-⏳ 업데이트 시간: 2025-09-01 19:40:03 (UTC)
+⏳ 업데이트 시간: 2025-09-01 19:51:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
