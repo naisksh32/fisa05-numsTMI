@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (374 )
-> 374 is the year that the Quadi cross the Danube and begin ravaging Pannonia.
+## 연도: (1430)
+> 1430 is the year that the Janissaries are created.
 
-⏳ 업데이트 시간: 2025-09-01 17:22:55 (UTC)
+⏳ 업데이트 시간: 2025-09-01 17:36:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
