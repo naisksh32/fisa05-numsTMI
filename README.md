@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1193)
-> 1193 is the year that the Aztec civilization begins in Mexico.
+## 연도: (2048)
+> 2048 is the year that the Protocol on Environmental Protection to the Antarctic Treaty will come up for review on January 14th.
 
-⏳ 업데이트 시간: 2025-09-02 10:56:14 (UTC)
+⏳ 업데이트 시간: 2025-09-02 11:20:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
