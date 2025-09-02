@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1053)
-> 1053 is the year that Jōchō makes Amida Buddha, Byodo-in.
+## 연도: (2042)
+> 2042 is the year that the Nickelodeon time capsule will be dug up on April 30th.
 
-⏳ 업데이트 시간: 2025-09-02 01:25:38 (UTC)
+⏳ 업데이트 시간: 2025-09-02 02:53:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
