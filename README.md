@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1264)
-> 1264 is the year that Gilbert de Clare, 6th Earl of Hertford leads a massacre of the Jews at Canterbury on April NaNth.
+## 연도: (1883)
+> 1883 is the year that Chile's National Library of Congress is founded on November 14th.
 
-⏳ 업데이트 시간: 2025-09-02 21:35:21 (UTC)
+⏳ 업데이트 시간: 2025-09-02 21:47:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
