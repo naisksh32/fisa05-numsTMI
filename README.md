@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (667 )
-> 667 is the year that the Daysan River floods Edessa in Asia.
+## 연도: (1777)
+> 1777 is the year that the code duello is adopted at the Clonmell Summer Assizes as the form for pistol duels in Ireland.
 
-⏳ 업데이트 시간: 2025-09-02 12:54:23 (UTC)
+⏳ 업데이트 시간: 2025-09-02 13:30:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
