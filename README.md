@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (617 )
-> 617 is the year that the Persian Army, under the command of General Spahbodh Shaahin, conquers Chalcedon after a long siege.
+## 연도: (935 )
+> 935 is the year that the Later Shu Kingdom is founded by Meng Zhixiang in Chengdu.
 
-⏳ 업데이트 시간: 2025-09-02 04:58:30 (UTC)
+⏳ 업데이트 시간: 2025-09-02 05:27:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
