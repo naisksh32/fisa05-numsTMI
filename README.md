@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1536)
-> 1536 is the year that the Inquisition is implemented in Portugal on April 30th.
+## 연도: (1037)
+> 1037 is the year that Ferdinand I becomes the king of Castile and Leon.
 
-⏳ 업데이트 시간: 2025-09-03 17:49:15 (UTC)
+⏳ 업데이트 시간: 2025-09-03 18:12:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
