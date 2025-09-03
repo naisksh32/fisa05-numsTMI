@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1134)
-> 1134 is the year that Eric II becomes King of Denmark.
+## 연도: (1762)
+> 1762 is the year that Britain declares war on Spain and Naples on January 4th.
 
-⏳ 업데이트 시간: 2025-09-03 14:27:55 (UTC)
+⏳ 업데이트 시간: 2025-09-03 14:45:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
