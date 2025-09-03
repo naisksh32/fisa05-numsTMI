@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1446)
-> 1446 is the year that the Battle of Otonetë on September 27th.
+## 연도: (1934)
+> 1934 is the year that the Soviet Union joins the League of Nations.
 
-⏳ 업데이트 시간: 2025-09-02 23:50:43 (UTC)
+⏳ 업데이트 시간: 2025-09-03 00:54:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
