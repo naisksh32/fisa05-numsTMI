@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (234 )
-> 234 is the year that Wei Yan is executed for treason after refusing to accept orders from Zhuge Liang.
+## 연도: (1943)
+> 1943 is the year that the first classes commence at Grace University on September 8th.
 
-⏳ 업데이트 시간: 2025-09-03 08:23:19 (UTC)
+⏳ 업데이트 시간: 2025-09-03 08:44:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
