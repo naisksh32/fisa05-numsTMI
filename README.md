@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1850)
-> 1850 is the year that Bingley Hall, the world's first purpose-built exhibition hall, opens in Birmingham, England.
+## 연도: (1134)
+> 1134 is the year that Eric II becomes King of Denmark.
 
-⏳ 업데이트 시간: 2025-09-03 13:59:29 (UTC)
+⏳ 업데이트 시간: 2025-09-03 14:27:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
