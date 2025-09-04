@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1952)
-> 1952 is the year that the Swedish paratrooper training school Fallskärmsjägarna(FJS) is created.
+## 연도: (1363)
+> 1363 is the year that Haakon VI of Norway marries Margaret I of Denmark on April 9th.
 
-⏳ 업데이트 시간: 2025-09-04 19:51:45 (UTC)
+⏳ 업데이트 시간: 2025-09-04 20:15:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
