@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1367)
-> 1367 is the year that Ferdinand I becomes King of Portugal after the death of his father, Peter I on January 18th.
+## 연도: (1172)
+> 1172 is the year that the Synod of Cashel ends the Celtic Christian system and brings them under Rome.
 
-⏳ 업데이트 시간: 2025-09-04 20:32:31 (UTC)
+⏳ 업데이트 시간: 2025-09-04 20:44:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
