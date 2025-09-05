@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (69 i)
-> 69 is the year that Josephus, Jewish rebel leader, is dragged before Vespasian and becomes his historian.
+## 연도: (1623)
+> 1623 is the year that Fire at Plymouth Colony destroys several buildings on November 1st.
 
-⏳ 업데이트 시간: 2025-09-05 21:40:55 (UTC)
+⏳ 업데이트 시간: 2025-09-05 21:52:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
