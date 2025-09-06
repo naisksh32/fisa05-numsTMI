@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1730)
-> 1730 is the year that Pope Clement XII succeeds Pope Benedict XIII as the 246th pope on July 12th.
+## 연도: (1769)
+> 1769 is the year that France conquers Corsica on May 9th.
 
-⏳ 업데이트 시간: 2025-09-06 05:16:55 (UTC)
+⏳ 업데이트 시간: 2025-09-06 05:33:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
