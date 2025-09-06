@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1568)
-> 1568 is the year that William I of Orange invades the Southeastern Netherlands on October 5th.
+## 연도: (341 )
+> 341 is the year that the Council of Encaenia is held in Antioch.
 
-⏳ 업데이트 시간: 2025-09-06 22:54:29 (UTC)
+⏳ 업데이트 시간: 2025-09-06 23:16:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
