@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (38 i)
-> 38 is the year that Phaedrus writes his popular collection of fables.
+## 연도: (257 )
+> 257 is the year that Gallienus enters into a joint consulship with his father Valerianus I, having brought some order to the Danube area.
 
-⏳ 업데이트 시간: 2025-09-07 12:13:39 (UTC)
+⏳ 업데이트 시간: 2025-09-07 12:52:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
