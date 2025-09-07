@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (103 )
-> 103 is the year that Legio X Gemina moves to Vienna, where it remains until the 5th century.
+## 연도: (253 )
+> 253 is the year that Pope Cornelius is sent into exile.
 
-⏳ 업데이트 시간: 2025-09-07 03:48:02 (UTC)
+⏳ 업데이트 시간: 2025-09-07 03:59:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
