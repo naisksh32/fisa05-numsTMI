@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1025)
-> 1025 is the year that Constantine VIII succeeds his brother Basil II as Byzantine Emperor.
+## 연도: (572 )
+> 572 is the year that Theodric succeeds his brother Æthelric as king of Bernicia (traditional date).
 
-⏳ 업데이트 시간: 2025-09-07 17:53:15 (UTC)
+⏳ 업데이트 시간: 2025-09-07 18:21:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
