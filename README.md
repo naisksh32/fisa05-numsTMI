@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (830 )
-> 830 is the year that Borobodur is completed as a Buddhist monument, after about 50 years of work.
+## 연도: (506 )
+> 506 is the year that the Breviary of Alaric, a collection of Roman law, is compiled.
 
-⏳ 업데이트 시간: 2025-09-08 13:17:13 (UTC)
+⏳ 업데이트 시간: 2025-09-08 13:43:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
