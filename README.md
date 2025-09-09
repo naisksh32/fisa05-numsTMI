@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1994)
-> 1994 is the year that the Red Cross estimates that hundreds of thousands of Tutsi have been killed in Rwanda on April 21st.
+## 연도: (314 )
+> 314 is the year that Pope Sylvester I succeeds Pope Miltiades as the 33rd pope on January 31st.
 
-⏳ 업데이트 시간: 2025-09-09 18:55:57 (UTC)
+⏳ 업데이트 시간: 2025-09-09 19:18:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
