@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1045)
-> 1045 is the year that Edward the Confessor marries Edith of Wessex and begins construction of Westminster Abbey.
+## 연도: (270 )
+> 270 is the year that the Chinese invent gunpowder (black powder), a mixture of sulfur, charcoal and potassium nitrate.
 
-⏳ 업데이트 시간: 2025-09-10 04:38:50 (UTC)
+⏳ 업데이트 시간: 2025-09-10 04:50:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
