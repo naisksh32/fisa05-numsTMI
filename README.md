@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1601)
-> 1601 is the year that a famine (ending in 1603) kills about half the Estonian population.
+## 연도: (1332)
+> 1332 is the year that the city of Marosvásárhely (Transylvania) is first documented in the papal registry under the name Novum Forum Siculorum.
 
-⏳ 업데이트 시간: 2025-09-10 01:20:39 (UTC)
+⏳ 업데이트 시간: 2025-09-10 02:37:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
