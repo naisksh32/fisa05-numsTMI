@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (461 )
-> 461 is the year that Libius Severus, Roman senator from Lucania, is declared emperor of the Western Roman Empire on November 19th.
+## 연도: (500 )
+> 500 is the year that the historicity of Mór is doubtful on Possible date at which Fergus Mór begins his reign NaNth.
 
-⏳ 업데이트 시간: 2025-09-10 17:56:30 (UTC)
+⏳ 업데이트 시간: 2025-09-10 18:34:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
