@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1348)
-> 1348 is the year that the anti-royalist Union of Valencia attacks the Jews of Murviedro because they are serfs of the King of Valencia and thus "royalists" on November 1st.
+## 연도: (1286)
+> 1286 is the year that Kublai Khan plots a final Mongol invasion of Japan, but aborts the plan due to a lack of necessary resources.
 
-⏳ 업데이트 시간: 2025-09-11 06:50:23 (UTC)
+⏳ 업데이트 시간: 2025-09-11 07:11:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
