@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1895)
-> 1895 is the year that the first American automobile race in history is sponsored by the Chicago-Times Herald on November 25th.
+## 연도: (1057)
+> 1057 is the year that Pope Stephen IX (sometimes referred to as Stephen X) succeeds Pope Victor II as the 154th pope on August 2nd.
 
-⏳ 업데이트 시간: 2025-09-11 15:30:20 (UTC)
+⏳ 업데이트 시간: 2025-09-11 15:42:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
