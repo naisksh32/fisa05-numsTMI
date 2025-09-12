@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1797)
-> 1797 is the year that William Wilberforce marries Barbara Ann Spooner on May 30th.
+## 연도: (275 )
+> 275 is the year that Marcus Claudius Tacitus is proclaimed Emperor by the Senate, his half brother Marcus Annius Florianus becomes Praetorian Prefect on September 25th.
 
-⏳ 업데이트 시간: 2025-09-12 22:38:07 (UTC)
+⏳ 업데이트 시간: 2025-09-12 22:50:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
