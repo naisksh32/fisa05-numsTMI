@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1770)
-> 1770 is the year that the Louth Navigation canal in Lincolnshire, England opens.
+## 연도: (274 )
+> 274 is the year that Germanic tribes take advantage of the destroyed Roman forces of the Rhine.
 
-⏳ 업데이트 시간: 2025-09-12 04:57:31 (UTC)
+⏳ 업데이트 시간: 2025-09-12 05:24:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
