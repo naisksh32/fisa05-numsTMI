@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (274 )
-> 274 is the year that Germanic tribes take advantage of the destroyed Roman forces of the Rhine.
+## 연도: (586 )
+> 586 is the year that the Vlachs are first mentioned in a Byzantine chronicle.
 
-⏳ 업데이트 시간: 2025-09-12 05:24:52 (UTC)
+⏳ 업데이트 시간: 2025-09-12 05:40:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
