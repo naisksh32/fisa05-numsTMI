@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1147)
-> 1147 is the year that the Siculo-NormanNormans take control of Gabes.
+## 연도: (1520)
+> 1520 is the year that Aleksandra Lisowska (Roxelana) is given as a gift to Suleiman I on the occasion of his accession to the throne.
 
-⏳ 업데이트 시간: 2025-09-13 16:26:21 (UTC)
+⏳ 업데이트 시간: 2025-09-13 16:41:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
