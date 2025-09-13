@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1968)
-> 1968 is the year that the Nuclear Non-Proliferation Treaty opens for signature.
+## 연도: (1194)
+> 1194 is the year that Henry VI is crowned king of Sicily on December 25th.
 
-⏳ 업데이트 시간: 2025-09-13 17:26:42 (UTC)
+⏳ 업데이트 시간: 2025-09-13 17:38:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
