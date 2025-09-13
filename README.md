@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (601 )
-> 601 is the year that the earliest dated English words are 'Town' and 'Priest', both recorded in the Laws of Æthelberht of Kent.
+## 연도: (48 i)
+> 48 is the year that the emperor Claudius invests Agrippa II with the office of superintendent of the Temple in Jerusalem.
 
-⏳ 업데이트 시간: 2025-09-13 23:27:31 (UTC)
+⏳ 업데이트 시간: 2025-09-13 23:40:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
