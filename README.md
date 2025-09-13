@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1614)
-> 1614 is the year that the University of Groningen is established in the Netherlands on August 23rd.
+## 연도: (869 )
+> 869 is the year that Stela 11, the last monument ever erected at Tikal, was dedicated by Jasaw Chan K'awiil II.
 
-⏳ 업데이트 시간: 2025-09-13 19:18:00 (UTC)
+⏳ 업데이트 시간: 2025-09-13 19:30:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
