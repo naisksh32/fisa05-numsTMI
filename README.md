@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1510)
-> 1510 is the year that Pskov is conquered by Grand Prince Vasili III of Muscovy.
+## 연도: (1412)
+> 1412 is the year that John II of Castile declares the Valladolid laws that restrict the social rights of Jews.
 
-⏳ 업데이트 시간: 2025-09-14 20:24:41 (UTC)
+⏳ 업데이트 시간: 2025-09-14 20:37:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
