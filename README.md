@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (553 )
-> 553 is the year that the Fifth Ecumenical Council is held.
+## 연도: (1206)
+> 1206 is the year that Mukhali is appointed myriarch of the left wing of the newly reorganized Mongol army, and granted immunity for up to 9 breaches of the law.
 
-⏳ 업데이트 시간: 2025-09-15 07:18:49 (UTC)
+⏳ 업데이트 시간: 2025-09-15 07:34:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
