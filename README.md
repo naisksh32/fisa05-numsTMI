@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (325 )
-> 325 is the year that Licinius is in Thessalonica executed on charge of conspiring, and raising troops against Constantine I.
+## 연도: (1988)
+> 1988 is the year that the Republican National Convention in New Orleans, Louisiana nominates George H.W on August 18th.
 
-⏳ 업데이트 시간: 2025-09-15 05:25:39 (UTC)
+⏳ 업데이트 시간: 2025-09-15 05:41:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
