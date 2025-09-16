@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1114)
-> 1114 is the year that Ramon Berenguer III of Barcelona and his Pisan allies, conquers Ibiza and Mallorca.
+## 연도: (1314)
+> 1314 is the year that Louis IV elected Holy Roman Emperor on October NaNth.
 
-⏳ 업데이트 시간: 2025-09-16 19:37:05 (UTC)
+⏳ 업데이트 시간: 2025-09-16 19:49:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
