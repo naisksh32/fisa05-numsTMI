@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (995 )
-> 995 is the year that Boleslaus II of Bohemia massacres the Slavnik's dynasty at Libice.
+## 연도: (260 )
+> 260 is the year that Earliest known date of chess.
 
-⏳ 업데이트 시간: 2025-09-16 18:49:13 (UTC)
+⏳ 업데이트 시간: 2025-09-16 19:06:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
