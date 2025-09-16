@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1529)
-> 1529 is the year that Boromrajathira IV succeeds Rama Thibodi II as king of Ayutthaya.
+## 연도: (1333)
+> 1333 is the year that the Arno River floods, causing massive damage in Florence as recorded by Giovanni Villani on November 4th.
 
-⏳ 업데이트 시간: 2025-09-16 04:59:07 (UTC)
+⏳ 업데이트 시간: 2025-09-16 05:26:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
