@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (264 )
-> 264 is the year that Jiang Wei tries to restore the Kingdom of Shu by persuading Zhong Hui to declare a rebellion against Sima Zhao, ruler of Cao Wei.
+## 연도: (1582)
+> 1582 is the year that Toyotomi Hideyoshi attacks a fortress at Takamatsu.
 
-⏳ 업데이트 시간: 2025-09-16 20:56:13 (UTC)
+⏳ 업데이트 시간: 2025-09-16 21:21:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
