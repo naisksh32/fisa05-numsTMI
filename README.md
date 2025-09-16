@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (450 )
-> 450 is the year that Emperor Theodosius II, age 49, falls from his horse while hunting at Constantinople and dies soon afterward on July 28th.
+## 연도: (1314)
+> 1314 is the year that Amda Seyon starts to rule.
 
-⏳ 업데이트 시간: 2025-09-16 23:19:50 (UTC)
+⏳ 업데이트 시간: 2025-09-16 23:32:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
