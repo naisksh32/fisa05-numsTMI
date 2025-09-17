@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (694 )
-> 694 is the year that Ine of Wessex makes peace with Kent.
+## 연도: (1870)
+> 1870 is the year that Vrain Denis-Lucas is sentenced to 2 years in prison for multiple forgery in Paris on February NaNth.
 
-⏳ 업데이트 시간: 2025-09-17 14:58:26 (UTC)
+⏳ 업데이트 시간: 2025-09-17 15:27:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
