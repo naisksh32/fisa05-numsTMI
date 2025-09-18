@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (737 )
-> 737 is the year that Favila becomes king of Asturias after Pelayo's death.
+## 연도: (1729)
+> 1729 is the year that Putney Bridge was built.
 
-⏳ 업데이트 시간: 2025-09-18 10:51:45 (UTC)
+⏳ 업데이트 시간: 2025-09-18 11:11:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
