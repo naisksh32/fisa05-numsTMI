@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (33 B)
-> 33 BC is the year that Crown Prince Ao ascends the throne as Emperor Cheng of Han.
+## 연도: (489 )
+> 489 is the year that Flavius Zeno (emperor) closes the School of Edessa for their teaching of Nestorian doctrine.
 
-⏳ 업데이트 시간: 2025-09-19 21:52:22 (UTC)
+⏳ 업데이트 시간: 2025-09-19 22:13:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
