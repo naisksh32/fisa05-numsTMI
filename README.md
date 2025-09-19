@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1298)
-> 1298 is the year that Ambrose, Augustine, Jerome, and Pope Gregory I are named the first Doctors of the Church.
+## 연도: (1512)
+> 1512 is the year that the Florentine Republic is dismantled and the Medici family comes back into power.
 
-⏳ 업데이트 시간: 2025-09-19 22:56:03 (UTC)
+⏳ 업데이트 시간: 2025-09-19 23:20:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
