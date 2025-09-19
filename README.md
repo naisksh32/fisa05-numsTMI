@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (644 )
-> 644 is the year that the Tang dynasty of China begins the invasion of Goguryo.
+## 연도: (946 )
+> 946 is the year that Pope Agapitus II succeeds Pope Marinus II as the 129th pope on May 10th.
 
-⏳ 업데이트 시간: 2025-09-19 09:42:22 (UTC)
+⏳ 업데이트 시간: 2025-09-19 09:54:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
