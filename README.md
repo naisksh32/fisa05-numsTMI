@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1416)
-> 1416 is the year that the Catholic Church burns Jerome of Prague as a heretic on May 30th.
+## 연도: (464 )
+> 464 is the year that Olybrius becomes a consul in Constantinople.
 
-⏳ 업데이트 시간: 2025-09-19 07:42:25 (UTC)
+⏳ 업데이트 시간: 2025-09-19 07:54:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
