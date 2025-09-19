@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1209)
-> 1209 is the year that Simon de Monfort takes over Carcassonne on August NaNth.
+## 연도: (1475)
+> 1475 is the year that Recuyell of the Historyes of Troye is the first book to be printed in English, by William Caxton in Bruges.
 
-⏳ 업데이트 시간: 2025-09-19 10:21:30 (UTC)
+⏳ 업데이트 시간: 2025-09-19 10:40:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
