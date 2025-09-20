@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (219 )
-> 219 is the year that the Battle of Mount Dingjun ends with Liu Bei emerging victorious.
+## 연도: (868 )
+> 868 is the year that Ratramnus writes Contra Graecorum Opposita.
 
-⏳ 업데이트 시간: 2025-09-20 17:09:12 (UTC)
+⏳ 업데이트 시간: 2025-09-20 17:25:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
