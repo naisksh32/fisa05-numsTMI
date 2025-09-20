@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1246)
-> 1246 is the year that the Mexicans settle Chapultepec, a former Toltec stronghold.
+## 연도: (50 i)
+> 50 is the year that Cologne is raised to the status of a city.
 
-⏳ 업데이트 시간: 2025-09-20 20:31:11 (UTC)
+⏳ 업데이트 시간: 2025-09-20 20:43:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
