@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (67 B)
-> 67 BC is the year that Pompey takes over the command of Lucius Lucullus in the war against Mithridates VI, and reaping the fruit of the latter's victories.
+## 연도: (186 )
+> 186 is the year that the Hatepe volcanic eruption extends Lake Taupo and makes skies red across the world.
 
-⏳ 업데이트 시간: 2025-09-20 19:17:54 (UTC)
+⏳ 업데이트 시간: 2025-09-20 19:29:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
