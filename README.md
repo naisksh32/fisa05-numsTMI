@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (81 B)
-> 81 BC is the year that Cicero wins his first case.
+## 연도: (910 )
+> 910 is the year that the allied forces of Mercia and Wessex defeat an army of Northumbrian Vikings in the Battle of Tettenhall on August 5th.
 
-⏳ 업데이트 시간: 2025-09-20 17:38:34 (UTC)
+⏳ 업데이트 시간: 2025-09-20 17:50:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
