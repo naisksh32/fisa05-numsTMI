@@ -3,10 +3,10 @@
 
 이 리포지토리는 numbersapi를 사용하여 특정 년도에 관한 TMI를 자동으로 업데이트합니다.
 
-## 연도: (1903)
-> 1903 is the year that a fire at the Iroquois Theater in Chicago kills 600 on December 30th.
+## 연도: (1732)
+> 1732 is the year that the magnitude 5.8 Montreal earthquake occurs in Montreal, Quebec, Canada on September 16th.
 
-⏳ 업데이트 시간: 2025-09-21 07:58:12 (UTC)
+⏳ 업데이트 시간: 2025-09-21 08:28:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
